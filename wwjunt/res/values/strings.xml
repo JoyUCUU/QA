@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ww</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="num2">数值2</string>
+    <string name="num1">数值1</string>
+    <string name="calc">求和计算</string>
+    <string name="exit">退出</string>
+</resources>
