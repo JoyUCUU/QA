@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Learn_log_Django/.idea/Django.iml" filepath="$PROJECT_DIR$/../Learn_log_Django/.idea/Django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Django.iml" filepath="$PROJECT_DIR$/.idea/Django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PythonDemo.iml" filepath="$PROJECT_DIR$/../.idea/PythonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/matplotlib_test.iml" filepath="$PROJECT_DIR$/../../.idea/matplotlib_test.iml" />
     </modules>
   </component>
 </project>
