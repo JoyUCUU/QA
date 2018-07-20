@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-#Beet Finace
+
 from com.android.monkeyrunner import MonkeyRunner,MonkeyDevice,MonkeyImage
 #连接设备夜神模拟器
 device = MonkeyRunner.waitForConnection(3,'127.0.0.1:62001')
